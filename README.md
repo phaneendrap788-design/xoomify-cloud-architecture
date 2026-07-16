@@ -7,9 +7,9 @@
 Designing a secure, highly available, and cost-optimized cloud infrastructure using **AWS** and **Terraform**.
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-blue?style=for-the-badge&logo=terraform)
-![Cloud](https://img.shields.io/badge/Cloud-Architecture-success?style=for-the-badge)
-![IaC](https://img.shields.io/badge/Infrastructure-as-Code-purple?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
+![Cloud](https://img.shields.io/badge/Cloud-Architecture-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </p>
 
